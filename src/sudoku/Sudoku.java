@@ -26,7 +26,6 @@ public class Sudoku {
         File file = new File(args[0]);
         Scanner scan = new Scanner(file);
         int sum=0;
-         long millis1 = System.nanoTime();
         while(scan.hasNext())
         {
            
@@ -63,10 +62,6 @@ public class Sudoku {
             System.out.println();
             System.out.println();
         }
-        long millis2 = System.nanoTime();
-        long dif =millis2-millis1;
-        dif = dif %1000;
-        System.out.println("Puzzles solved in "+dif+" milisecond/s");
     }
     private static boolean solveLast(int[][] matrix )
     {
