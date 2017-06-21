@@ -15,28 +15,10 @@ http://www.math.cornell.edu/~mec/Summer2009/meerkamp/Site/Introduction.html
 The program takes the name of the file including the sudoku puzzles as argument.
 The format of the file is left same as it is given in the problem. 
 A sample for format is as following.
+
 File Format Sample:
-Grid 01
-003020600
-900305001
-001806400
-008102900
-700000008
-006708200
-002609500
-800203009
-005010300
-Grid 02
-200080300
-060070084
-030500209
-000105408
-000000000
-402706000
-301007040
-720040060
-004010003
-...
+
+https://projecteuler.net/project/resources/p096_sudoku.txt
 
 
 
