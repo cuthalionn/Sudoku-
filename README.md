@@ -5,8 +5,8 @@ write this very program was gained from Project Euler problem #96.
 
 https://projecteuler.net/problem=96
 
-The first solution implemented by myself used a brute force alghoritm to find the fitting combination of numbers that appropriate
-to the rules of sudoku puzzle. Current implementation is an optimization which first uses a series of some known sudoku alghoritms to
+The first solution implemented by myself used a brute force alghoritm to find an appropriate combination of numbers that fit
+the rules of the sudoku puzzle. Current implementation is an optimization which first uses a series of some known sudoku alghoritms to
 fill as much before again attempting the brute force technique. While implementing these alghoritms following link was helpful as it 
 explained the alghoritms and best way to combine them in order to solve a puzzle.
 
