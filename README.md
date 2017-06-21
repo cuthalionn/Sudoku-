@@ -12,7 +12,7 @@ explained the alghoritms and best way to combine them in order to solve a puzzle
 
 http://www.math.cornell.edu/~mec/Summer2009/meerkamp/Site/Introduction.html
 
-The program takes the name of the file including the sudoku puzzles as argument.
+The program takes the name of the file including the sudoku puzzles as an argument.
 The format of the file is left same as it is given in the problem. 
 A sample for format is as following.
 
